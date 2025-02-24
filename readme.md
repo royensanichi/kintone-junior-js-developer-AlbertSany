@@ -7,7 +7,7 @@ Welcome to this screening test! You will build a simple **Employee Management Sy
 ### Requirements:
 
 - node + npm (latest stable version)
-- code editor
+- code editor + live server extension (or anything that could run your project in browser)
 
 ---
 
