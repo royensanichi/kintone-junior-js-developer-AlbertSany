@@ -23,7 +23,11 @@ Initiate the repository by running
 npm init -y
 ```
 
-### **2. Install JSON Server (Dependencies)**
+### **2. Rename db.json.example**
+
+Rename db.json.example to db.json.
+
+### **3. Install JSON Server (Dependencies)**
 
 Before running the project initiate the npm then install `json-server` using:
 
@@ -31,7 +35,7 @@ Before running the project initiate the npm then install `json-server` using:
 npm install
 ```
 
-### **3. Start JSON Server**
+### **4. Start JSON Server**
 
 Run the following command to start the JSON server:
 
@@ -113,6 +117,7 @@ Implement the following functions inside `form-script.js`:
 #### ✅ **Add Employee**
 
 - Capture user input from the form.
+- Generate random string (10 digits alphanumeric).
 - Send a `POST` request to `JSON Server` to save the new employee.
 - Redirect to Index.
 
