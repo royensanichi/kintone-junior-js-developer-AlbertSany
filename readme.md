@@ -90,4 +90,3 @@ Your `db.json` should be structured like this:
 
 **Good luck! 🍀**   
 
-# kintone-junior-dev-test
