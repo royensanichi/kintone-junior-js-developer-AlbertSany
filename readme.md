@@ -81,7 +81,7 @@ Index page consisting of:
 
 - Button to navigate to form.
 - Filter component.
-- Add a **table** below the form to display employees.
+- Add a **table** to display employees.
 
 ### **2. HTML (`form.html`)**
 
