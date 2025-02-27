@@ -168,6 +168,6 @@ Please refer to [json-server's docs](https://www.npmjs.com/package/json-server) 
 
 2️⃣ Create a public GitHub repository with format "kintone-junior-js-developer-[nama-anda]".
 
-3️⃣ Send the link to the repository via email to bella@aqi.co.id and cc to aulya.khatulistivani@aqi.co.id, taufiqurahman.alghani@aqi.co.id, ariel.irmawan@aqi.co.id & muhamad.rifaldi@aqi.co.id with title kintone-junior-js-developer-[nama-anda].
+3️⃣ Send the link to the repository via email to bella@aqi.co.id and cc to aulya.khatulistivani@aqi.co.id with title kintone-junior-js-developer-[nama-anda].
 
 **Good luck! 🍀**
