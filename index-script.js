@@ -17,7 +17,11 @@
     }
   }
 
+<<<<<<< HEAD
   // Filter employees by name
+=======
+  // Filter employees
+>>>>>>> 668bd01 (Reinit project)
   function filterEmployees() {
     const searchValue = document.getElementById('filter').value.toLowerCase();
 

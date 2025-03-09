@@ -6,9 +6,14 @@ body {
   }
   
   /* Headings */
+<<<<<<< HEAD
   h1 {
     text-align: center;
     color: #333;
+=======
+  h1,h2,h3,h4 {
+    text-align: center;
+>>>>>>> 668bd01 (Reinit project)
   }
   
   /* Buttons */
@@ -29,6 +34,17 @@ body {
     background-color: #0c4e96;
   }
 
+<<<<<<< HEAD
+=======
+  /* Filter Input */
+  #filter {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+
+>>>>>>> 668bd01 (Reinit project)
   /* Table */
   table {
     width: 100%;
@@ -46,6 +62,7 @@ body {
     background-color: #f2f2f2;
   }
   
+<<<<<<< HEAD
   /* Filter Input */
   #filter {
     width: 100%;
@@ -54,6 +71,8 @@ body {
     border: 1px solid #ccc;
   }
   
+=======
+>>>>>>> 668bd01 (Reinit project)
   /* Form */
   form {
     max-width: 400px;
