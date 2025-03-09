@@ -1,0 +1,75 @@
+/* General Page Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  /* Headings */
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Buttons */
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    display: block;
+    margin: 10px auto;
+    width: 120px;
+  }
+  
+  button:hover {
+    background-color: #0c4e96;
+  }
+
+  /* Table */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  /* Filter Input */
+  #filter {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  /* Form */
+  form {
+    max-width: 400px;
+    margin: auto;
+    background: white;
+    padding: 15px;
+    border: 1px solid #ddd;
+  }
+  
+  label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+  }

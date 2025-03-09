@@ -8,17 +8,28 @@
     <title>Employee Data Form</title>
 
     <!-- import styles.css -->
+    <link rel="stylesheet" href="styles.css" />
   </head>
-
+    
   <body>
     <h1>Employee Data Form</h1>
 
     <!-- Form -->
-
-    <!-- Submit Button -->
-
+    <form id="employee-form">
+      <label for="nameEmployee">Name </label>
+      <input type="text" id="nameEmployee" name="name" required />
+      
+      <label for="positionEmployee">Position:</label>
+      <input type="text" id="positionEmployee" name="position" required />
+    
+      <!-- Submit Button -->
+      <button type="submit">Add Employee</button>
+    </form>
+    
     <!-- Back button (to index) -->
-
+    <button onclick="location.href='index.html'">Back</button>
+    
     <!-- import form-script.js -->
+    <script src="form-script.js"></script>
   </body>
 </html>

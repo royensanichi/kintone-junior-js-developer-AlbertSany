@@ -75,57 +75,57 @@ You have been given `index.html`, `form.html`, `style.css`, `index-script.js`, a
 
 ## **📚 Task Breakdown**
 
-### **1. HTML (`index.html`)**
+<!-- ### **1. HTML (`index.html`)**
 
 Index page consisting of:
 
-- Button to navigate to form.
+- Button to navigate to form. 
 - Filter component.
-- Add a **table** to display employees.
+- Add a **table** to display employees. -->
 
-### **2. HTML (`form.html`)**
+<!-- ### **2. HTML (`form.html`)**
 
 Create a **simple form** with input fields for:
 
 - `Name`
 - `Position`
 - A submit button.
-- A back button.
+- A back button. -->
 
-### **3. JavaScript (`index-script.js`)**
+<!-- ### **3. JavaScript (`index-script.js`)**
 
-Implement the following functions inside `index-script.js`:
+Implement the following functions inside `index-script.js`: -->
 
-#### ✅ **Fetch & Display Employees**
+<!-- #### ✅ **Fetch & Display Employees**
 
 - Fetch data from `http://localhost:3000/employees`
-- Display the data inside the table.
+- Display the data inside the table. -->
 
-#### ✅ **Add Feature to Filter Data by Name and Reflect to Table**
+<!-- #### ✅ **Add Feature to Filter Data by Name and Reflect to Table**
 
 - Filter by name on input.
-- Display the data inside the table.
+- Display the data inside the table. -->
 
-#### ✅ **(Bonus) Delete Employee**
+<!-- #### ✅ **(Bonus) Delete Employee**
 
-- Add a delete button to remove an employee from the JSON Server.
+- Add a delete button to remove an employee from the JSON Server. -->
 
-### **4. JavaScript (`form-script.js`)**
+<!-- ### **4. JavaScript (`form-script.js`)**
 
-Implement the following functions inside `form-script.js`:
+Implement the following functions inside `form-script.js`: -->
 
-#### ✅ **Add Employee**
+<!-- #### ✅ **Add Employee**
 
 - Capture user input from the form.
 - Generate random string (10 digits alphanumeric).
 - Send a `POST` request to `JSON Server` to save the new employee.
-- Redirect to Index.
+- Redirect to Index. -->
 
-### **5. CSS (`style.css`)**
+<!-- ### **5. CSS (`style.css`)**
 
 - Layout the page appropriately.
 - Style buttons, form and table to make it visually appealing.
-- Ensure the table is well-structured.
+- Ensure the table is well-structured. -->
 
 ---
 
